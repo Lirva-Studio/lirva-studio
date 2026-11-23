@@ -1,0 +1,6 @@
+{
+  "name": "Lirva Studio",
+  "description": "Affiliate videos, mini-drama, podcast-style content, o facts videos—may gabay ang Member Access sa pagbuo ng idea, script, at prompts na gagamitin mo sa sarili mong AI tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
